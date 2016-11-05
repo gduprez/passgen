@@ -1,0 +1,20 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "password generator",
+  "main": "passgen.js",
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "Guillaume Duprez",
+  "license": "ISC",
+  "dependencies": {
+    "password-generator": "^2.0.2"
+  },
+
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/npm/npm.git"
+  }
+}
