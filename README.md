@@ -1,7 +1,10 @@
 # passgen
-password generator
+A password generator that provide:
+- password
+- salt
+- encrypted password
 
-# install
-- git clone
+## how to use
+- git clone https://github.com/gduprez/passgen.git
 - npm install
 - node passgen
